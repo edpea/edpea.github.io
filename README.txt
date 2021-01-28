@@ -21,3 +21,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+		![DatabaseScreenshot](https://user-images.githubusercontent.com/70617213/106194520-f63d8d00-617c-11eb-8a5d-9fb965cc5274.PNG)
